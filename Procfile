@@ -1,1 +1,1 @@
-bot: python place_bot.py
+worker: python place_bot.py
